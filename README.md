@@ -1,8 +1,8 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Werdien Jihed. 
-I'm a curious and creative Developer who loves design and passionate about digital marketing. 
-I created multiple repositories and some of them you may find interesting.
+<p>My name is Werdien Jihed.</p>
+<p>I'm a curious and creative Developer who loves design and passionate about digital marketing.</p>
+<p>I created multiple repositories and some of them you may find interesting.</p>
 
 ---
 
@@ -21,8 +21,8 @@ I created multiple repositories and some of them you may find interesting.
 
 ### Contact Me
 
-I am open for collaborations, if you find my work interesting feel free to send me a message.
-you can find me on :
+<p>I am open for collaborations, if you find my work interesting feel free to send me a message.</p>
+<p>you can find me on :</p>
 
 <p>
   <a href="https://www.linkedin.com/in/werdien-jihed/">

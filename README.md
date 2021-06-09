@@ -2,7 +2,6 @@
 
 <p>My name is Werdien Jihed.</p>
 <p>I'm a curious and creative Developer who loves design and passionate about digital marketing.</p>
-<p>I created multiple repositories and some of them you may find interesting.</p>
 
 ---
 
@@ -16,7 +15,6 @@
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL-CC2927?logo=Microsoft-SQL-Server&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Contact Me

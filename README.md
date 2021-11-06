@@ -1,7 +1,7 @@
 ### Hi there and welcome to my GitHub page 👋
 
 <p>My name is Werdien Jihed.</p>
-<p>I'm a curious and creative Developer who loves design and passionate about digital marketing.</p>
+<p>I'm a curious and creative developer who loves design and passionate about digital marketing.</p>
 
 ---
 

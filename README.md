@@ -1,4 +1,4 @@
-### Hi there and welcome to my GitHub page 👋
+### Welcome to my GitHub page 👋
 
 <p>I consider myself a self-taught person, a curious and creative developer.</p>
 <p>I have professional experience working in the CRM domain as a javascript/C# developer, I also have experience working with some frameworks like ReactJs and I am always looking for new knowledge horizons to build my dreams.</p>

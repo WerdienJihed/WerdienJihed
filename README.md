@@ -1,7 +1,7 @@
 ### Hi there and welcome to my GitHub page 👋
 
-<p>My name is Werdien Jihed.</p>
-<p>I'm a curious and creative developer who loves design and passionate about digital marketing.</p>
+<p>I consider myself a self-taught person, a curious and creative developer.</p>
+<p>I have professional experience working in the CRM domain as a javascript/C# developer, I also have experience working with some frameworks like ReactJs and I am always looking for new knowledge horizons to build my dreams.</p>
 
 ---
 
@@ -19,7 +19,6 @@
 
 ### Contact Me
 
-<p>I am open for collaborations, if you find my work interesting feel free to send me a message.</p>
 <p>you can find me on :</p>
 
 <p>

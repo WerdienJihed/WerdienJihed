@@ -1,8 +1,8 @@
 ### Welcome to my GitHub page 👋
 
-<p>I consider myself a self-taught person, a curious and creative developer.</p>
-<p>I have professional experience working in the CRM domain as a javascript/C# developer, I also have experience working with some frameworks like ReactJs and I am always looking for new knowledge horizons to build my dreams.</p>
-
+<p>I am a FullStack developer with more than 3 years of professional experience in the CRM domain as a javascript & .NET developer.</p>
+<p>I also have substantial experience working with databases mainly Microsoft SQL Server and some Front-End frameworks like ReactJs.</p>
+<p>I am a self-taught person constantly looking for new knowledge horizons and I like working on projects where it is necessary to come up with a non-standard solution.</p>
 ---
 
 ### My Skills
